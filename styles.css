@@ -1,0 +1,26 @@
+html {
+  background-color: #b4d4cf;
+  font-family: Courier;
+}
+
+.alignContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 1400px;
+  width: 100%;
+  padding: 150px 0;
+}
+
+.linksContainer {
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  width: 100%;
+  margin-bottom: 40px;
+}
+
+.otterImage {
+  margin-bottom: 40px;
+}
